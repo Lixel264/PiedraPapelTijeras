@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\PiedraPapelTijeras\PiedraPapelTijeras\bin\Debug\netcoreapp3.1\PiedraPapelTijeras.exe
+C:\Users\WANDA\Desktop\C#\PiedraPapelTijeras\PiedraPapelTijeras\bin\Debug\netcoreapp3.1\PiedraPapelTijeras.deps.json
+C:\Users\WANDA\Desktop\C#\PiedraPapelTijeras\PiedraPapelTijeras\bin\Debug\netcoreapp3.1\PiedraPapelTijeras.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\PiedraPapelTijeras\PiedraPapelTijeras\bin\Debug\netcoreapp3.1\PiedraPapelTijeras.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\PiedraPapelTijeras\PiedraPapelTijeras\bin\Debug\netcoreapp3.1\PiedraPapelTijeras.dll
+C:\Users\WANDA\Desktop\C#\PiedraPapelTijeras\PiedraPapelTijeras\bin\Debug\netcoreapp3.1\PiedraPapelTijeras.pdb
+C:\Users\WANDA\Desktop\C#\PiedraPapelTijeras\PiedraPapelTijeras\obj\Debug\netcoreapp3.1\PiedraPapelTijeras.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\PiedraPapelTijeras\PiedraPapelTijeras\obj\Debug\netcoreapp3.1\PiedraPapelTijeras.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\PiedraPapelTijeras\PiedraPapelTijeras\obj\Debug\netcoreapp3.1\PiedraPapelTijeras.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\PiedraPapelTijeras\PiedraPapelTijeras\obj\Debug\netcoreapp3.1\PiedraPapelTijeras.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\PiedraPapelTijeras\PiedraPapelTijeras\obj\Debug\netcoreapp3.1\PiedraPapelTijeras.dll
+C:\Users\WANDA\Desktop\C#\PiedraPapelTijeras\PiedraPapelTijeras\obj\Debug\netcoreapp3.1\PiedraPapelTijeras.pdb
+C:\Users\WANDA\Desktop\C#\PiedraPapelTijeras\PiedraPapelTijeras\obj\Debug\netcoreapp3.1\PiedraPapelTijeras.genruntimeconfig.cache
